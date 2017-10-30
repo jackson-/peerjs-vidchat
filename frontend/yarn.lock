@@ -4587,10 +4587,6 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
-picnic@^6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/picnic/-/picnic-6.4.0.tgz#6fe12f499c335cb8a9ade49189683d10c42e1d5f"
-
 pify@^2.0.0, pify@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"

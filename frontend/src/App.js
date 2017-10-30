@@ -14,17 +14,7 @@ class App extends Component {
       conn:null,
       peer_id:"",
       messages:[],
-      peer:new Peer({
-        host: 'localhost',
-        port: 9000,
-        path: '/peerjs',
-        debug: 3,
-        config: {'iceServers': [
-        { url: 'stun:stun1.l.google.com:19302' },
-        { url: 'turn:numb.viagenie.ca',
-          credential: 'muazkh', username: 'webrtc@live.com' }
-        ]}
-      }),
+      peer: new Peer({key: 'dhunqi7nll92j4i'}),
       show_chat:true,
       show_connection:true,
       show_peer_id:true,
